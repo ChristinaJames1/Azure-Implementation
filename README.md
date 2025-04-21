@@ -1,7 +1,8 @@
 <h1>Zero-Trust Merged Topology - Azure SaaS/PaaS Implementation </h1>
 
 <h2>Description</h2>
-This project entailed merging network topologies for 2 companies undergoing M&A. The concept of zero-trust was used to design secure physical and logical architecture for both wired and wireless networks. Executives of the newly merged company expressed interest in cloud integration. Azure SaaS was implemented to work with active directory (AD) and domain services enabling the company to take advantage of cloud elasticity meaning they can add, change, and remove services as necessary based on volume. Azure PaaS was put in place to allow for creation of a dev pipeline. 
+This project entailed merging network topologies for 2 companies undergoing M&A. The concept of zero-trust was used to design secure physical and logical architecture for both wired and wireless networks. Executives of the newly merged company expressed interest in cloud integration. For AD/on-prem server migration to cloud, Azure SaaS was implemented to work with active directory (AD) and domain services enabling cloud elasticity meaning services can be added, changed, and removed as necessary based on volume. Azure PaaS was put in place to allow for creation of a dev pipeline, and gateway access to applications, databases and storage.
+
 <br />
 
 
